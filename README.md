@@ -4,7 +4,7 @@
 
 <h1 align="center">Mostafizur Rahman</h1>
 <p align="center">
-SaaS Architect • Project Manager @ Hibabox • 8+ yrs building scalable systems
+Custom Software • SaaS Architect • Project Manager @ Hibabox • 8+ yrs building scalable systems
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=SaaS+%7C+ERP+%7C+LMS;Laravel+%7C+Node+%7C+React;AI+%26+Automation;Build+→+Scale+→+Optimize&center=true&width=420&height=35">
