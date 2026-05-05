@@ -1,89 +1,92 @@
-<h1 align="center">Hi 👋, I'm Mostafizur Rahman</h1>
-<h3 align="center">SaaS Architect | Project Manager @ Hibabox | Helping Businesses Build Scalable Software</h3>
+<!-- <p align="center">
+  <img src="https://raw.githubusercontent.com/bappy/bappy/main/banner.png" alt="Mostafizur Rahman — SaaS Architect | Project Manager @ Hibabox" width="100%" />
+</p> -->
 
+<h1 align="center">Mostafizur Rahman</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Build+Your+SaaS+Product;Scale+Your+Backend+Systems;Laravel+%7C+Node+%7C+React+Expert;AI+Driven+Solutions;8%2B+Years+Experience&center=true&width=550&height=45">
+SaaS Architect • Project Manager @ Hibabox • 8+ yrs building scalable systems
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=SaaS+%7C+ERP+%7C+LMS;Laravel+%7C+Node+%7C+React;AI+%26+Automation;Build+→+Scale+→+Optimize&center=true&width=420&height=35">
+</p>
+<p align="center">
+⚡ I build scalable SaaS, automation systems & high-performance backends
 </p>
 
 ---
 
-## 🚀 What I Do
-
-I help startups and businesses:
-
-- ⚡ Build scalable SaaS platforms  
-- 🏗 Design robust backend architectures  
-- 🔄 Develop automation & AI-driven systems  
-- 💳 Integrate payment gateways & third-party APIs  
-- ☁️ Deploy and manage cloud infrastructure  
-
-If you're building a product — I can help you go from **idea → production → scale**.
+### 🧠 Focus
+SaaS • Multi-tenant • APIs • AI automation • Web scraping • Cloud  
 
 ---
 
-## 🧠 My Expertise
-
-- Multi-Tenant SaaS Architecture  
-- ERP & LMS Development  
-- High-performance REST APIs  
-- Real-time systems (WebSockets)  
-- AI-assisted development workflows  
-- Web scraping & automation systems  
-
----
-
-## 🛠 Tech Stack
-
-**Backend:** Laravel, Node.js, Express  
-**Frontend:** Vue.js, Nuxt.js, React, Next.js  
-**Database:** MySQL, PostgreSQL, Redis  
-**DevOps:** Docker, Kubernetes, CI/CD  
+### 🛠 Tech Stack
+<p>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Vue.js-42b883?style=flat-square&logo=vue.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+</p>
 
 ---
 
-## 🔥 Selected Work
-
-### 🕌 Hibabox  
-Contactless donation platform with secure payment integration  
-
-### 🎓 LMS Platform  
-Full-featured learning system with student & course management  
-
-### 🏭 ERP System  
-Production & inventory system for the garment industry  
-
-### ☁️ Multi-Tenant SaaS  
-Scalable systems supporting multiple organizations  
-
-### 🖥 Server Management Platform  
-VM management system using Proxmox & cloud integrations  
+### 🚀 Case Study — Hibabox (Donation Platform)
+- Built a contactless donation system used in real-world environments (mosques/kiosks)  
+- Integrated secure payment gateways with seamless user experience  
+- Designed backend to handle transactions & real-time updates  
+- Developed kiosk-friendly UI for public usage  
+- Managed deployment, scaling, and production reliability  
+**→ Result:** Live production system enabling smooth and reliable digital donations  
 
 ---
 
-## 🏆 Why Work With Me?
-
-- ⭐ Top Rated Plus on Upwork  
-- 🚀 8+ years delivering production-ready systems  
-- 🧩 Strong problem-solving & system design mindset  
-- 👨‍💻 Hands-on + leadership experience  
-- 📈 Focus on business impact, not just code  
+### ⚙️ Case Study — Multi-Tenant SaaS
+- Built scalable SaaS platform supporting multiple organizations  
+- Designed tenant isolation, APIs, authentication & role systems  
+- Implemented CI/CD with Docker-based deployment  
+**→ Result:** Production-ready, scalable architecture used in real environments  
 
 ---
 
-## 🤝 Let's Work Together
-
-If you're looking for:
-
-- A reliable developer  
-- A technical partner  
-- Someone who understands business + technology  
-
-📩 Reach out:
-
-- Email: mustafizur120133@gmail.com  
-- LinkedIn: https://linkedin.com/bappy  
-- GitHub: https://github.com/bappy  
+### 🏆 Proof
+⭐ Top Rated Plus (Upwork)  
+🚀 8+ years building production systems  
+🧠 Strong system design & scalability mindset  
 
 ---
 
-⚡ **Currently open for freelance & startup collaborations**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bappy&show_icons=true&theme=radical&hide_border=true" height="140"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bappy&theme=radical&hide_border=true" height="140"/>
+</p>
+
+---
+
+### 🤝 Connect
+<p align="center">
+<a href="mailto:mustafizur120133@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://linkedin.com/bappy">
+<img src="https://img.shields.io/badge/LinkedIn-View%20Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/bappy">
+<img src="https://img.shields.io/badge/GitHub-Explore%20Repos-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+---
+
+<p align="center">
+⚡ Open for freelance & startup collaborations
+</p>
